@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 Hola Merche!!
 Este es mi primer txt
-Ahora lo puedes modificar tú como quieras
+Esto lo sobreescribo
 Dale!!
 
 Ya estás tocando mis cositas eh!!
-=======
-Ahora cambio esto, y ahora que??
->>>>>>> Merche_branch
